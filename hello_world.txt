@@ -1,1 +1,3 @@
 Blank text to update file! Hello world!!
+
+Minor change to test VS Code commit text editor
